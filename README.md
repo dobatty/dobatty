@@ -18,6 +18,6 @@ Chrophy CEO, ex-tech journalist 💻
   <img 
     alt="most-used-languages"
     height="170px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobatty&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobatty&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true"
   />
 </p>
