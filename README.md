@@ -22,12 +22,12 @@ Building AI solutions and automation tools
     height="170px" 
     src="https://github-readme-stats.vercel.app/api?username=dobatty&rank_icon=github&count_private=true&theme=tokyonight" 
   />
-  -->
   <img 
     alt="most-used-languages"
     height="170px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobatty&layout=compact&theme=tokyonight&langs_count=8&card_width=320&hide=html,css,scss&size_weight=0.5&count_weight=0.5"
   />
+  -->
 </p>
 
 <div align="center">
