@@ -26,6 +26,10 @@ Building AI solutions and automation tools
   <img 
     alt="most-used-languages"
     height="170px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobatty&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobatty&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=github-readme-stats&hide=html,css"
   />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dobatty&custom_title=dobatty's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
